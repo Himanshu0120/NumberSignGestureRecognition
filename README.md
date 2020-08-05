@@ -5,7 +5,7 @@ The process invloved is thresholding of the image to seprate the hand from the b
 model to recognize the number.
 The model can predict number from 0-5
 
-##How to run
+## How to run
 
 *dataCollection.py-This file is collect the image data from the user to get training and testing data.The user has to first select that whether he is giving 
 training or testing data and them show his hand to the camera and press the number key from 0-5 corresponding to his hand gesture.
