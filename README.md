@@ -18,3 +18,6 @@ it can be later used for recogintion.The validation accuracy of the model is aro
 * Recognition.py- This file is to be run for recognition. The user has to show his hand to the camera and the number shown by him will be displayed on the
 image screen.
 
+
+### The background in the image should be white or other light colour for thresholding to work. Or else it wont seprate the hand from the background.
+
