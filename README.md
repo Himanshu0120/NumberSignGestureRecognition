@@ -1,4 +1,4 @@
-# NumberSignRecognition
+# NumberSignGestureRecognition
 
 This project uses OpenCv and Convolution Neural Networks to recognize the numer from the gesture of the hand shown to the camera.
 The process invloved is thresholding of the image to seprate the hand from the background to create a binary image which can be sent to the pretrained 
